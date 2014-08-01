@@ -1,3 +1,3 @@
-myProfileURL=""
-sessionid = ""
-steamLogin = ""
+myProfileURL="http://steamcommunity.com/id/baconda6/"
+sessionid = "ODEwODUwMjEx"
+steamLogin = "76561198071395031%7C%7C90BCB31EFC91F85CD19D8826DD2C6D52F9BFC303"
